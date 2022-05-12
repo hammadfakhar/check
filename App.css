@@ -1,0 +1,42 @@
+.App{
+  text-align: center;
+}
+.top{
+  background-color: gray;
+  padding: 10px;
+  
+}
+.questionCard{
+  margin: 0 auto;
+  background-color: gray;
+  padding: 16px;
+  width: 70%;
+  height: auto;
+  border-radius: 16px;
+  color: black;
+}
+
+ul{
+  list-style: none;
+}
+li{
+  background-color: gainsboro;
+  padding: 18px;
+  border-radius: 16px;
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-weight: bolder;
+  text-transform: capitalize;
+  border: 2px solid rgb(82, 8, 253);
+}
+
+.result{
+  margin: 0 auto;
+  background-color: gray;
+  padding: 16px;
+  width: 40%;
+  height: auto;
+  border-radius: 16px;
+  color: black;
+}
+
